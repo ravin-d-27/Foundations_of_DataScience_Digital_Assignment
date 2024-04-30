@@ -27,7 +27,10 @@ This project focuses on analyzing Air Quality Index (AQI) data to understand the
    pip install pandas matplotlib seaborn numpy tensorflow
    ```
 
-3. Run the Jupyter Notebook `AQI_Forecasting.ipynb` to execute the code and generate the bar plot of average AQI levels for each state.
+3. Dataset Link: Since the Dataset is huge, I am attaching the link. Please download it if it is required.
+   - Google Drive Link: https://drive.google.com/file/d/1ymUwmE23yFpx1a5fvjg7jnQfxremiT-2/view?usp=sharing
+
+4. Run the Jupyter Notebook `AQI_Forecasting.ipynb` to execute the code and generate the bar plot of average AQI levels for each state.
 
 ## Code Structure
 - Data Loading and Preprocessing
